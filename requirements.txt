@@ -1,0 +1,7 @@
+json
+Flask
+Flask-Cors
+Flask-WTF
+gunicorn
+numpy
+pandas
